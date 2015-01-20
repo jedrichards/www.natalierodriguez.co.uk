@@ -1,0 +1,25 @@
+{
+  "name": "www.natalierodriguez.co.uk",
+  "version": "1.0.0",
+  "description": "Natalie Rodriguez portfolio.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'The tests passed :P'",
+    "start": "forever -m --minUptime 5000 --spinSleepTime 5000 index.js",
+    "start:dev": "nodemon -e js,hbs,md,json index.js"
+  },
+  "dependencies": {
+    "forever": "^0.13.0",
+    "handlebars": "^2.0.0",
+    "hapi": "^8.0.0",
+    "markdown": "^0.5.0",
+    "nodemon": "^1.2.1"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jedrichards/www.sebblach.co.uk.git"
+  }
+}

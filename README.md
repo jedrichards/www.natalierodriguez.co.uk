@@ -1,6 +1,6 @@
-# www.natalierodriguez.co.uk
+# www.natalienataliebodart.co.uk
 
-Natalue Rodriguez portfolio site.
+Natalie Bodart portfolio site.
 
 ## Technologies
 
